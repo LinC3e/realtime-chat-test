@@ -11,3 +11,5 @@ app.use('/',(req,res) => {
 app.listen(PORT , () => {
     console.log("Server on in PORT : " ,PORT)
 })
+
+console.log("Test")
